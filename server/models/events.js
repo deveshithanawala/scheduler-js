@@ -10,6 +10,6 @@ const eventSchema = mongoose.Schema({
         required: true,
     }
 }
-);
+)
 
 module.exports = mongoose.model('Event',eventSchema);
