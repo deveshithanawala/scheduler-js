@@ -11,7 +11,7 @@
 - User can delete events
 - User will get a schedule conflict whenever there is an overlapping event
 
-## Concept of Schedule Coflict 
+## Concept of Schedule Conflict 
 - User will be notified when max number of hours have been reached 
 - User will be notified when trying to add an overlapping event 
 - Back to Back events 
